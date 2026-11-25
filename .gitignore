@@ -1,0 +1,6 @@
+# build output
+out/
+*.class
+
+# runtime state
+expenses.json
